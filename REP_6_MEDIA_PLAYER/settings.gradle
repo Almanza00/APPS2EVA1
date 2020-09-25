@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "REP_6_MEDIA_PLAYER"
